@@ -1,5 +1,8 @@
 # Civi McREST Face (CMRF) connector for Wordpress
 
+ARCHIVED: Please see <https://github.com/CiviMRF/cmrf-wordpress>
+
+
 This provides a connector for Wordpress to access remote CiviCRM databases using [CMRF](https://github.com/CiviMRF)
 
 **Warning** I've struggled to understand CMRF and based this on hacking the Drupal CMRF Core.
